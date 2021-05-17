@@ -48,7 +48,7 @@ from web3.gas_strategies.time_based import medium_gas_price_strategy
 ## Usage
 
 After cloned the files in your personal computer you can lauch the fintech_finder.py with the streamlit and than follow the steps bellow:
-- Firt you have to choose the developer and how many hours he/she gonna be paid.
+- First you have to choose the developer and how many hours he/she gonna be paid.
 - 
 ![Screen Shot 2021-05-16 at 9 12 55 PM](https://user-images.githubusercontent.com/75823252/118431634-a92dea00-b68b-11eb-9694-a4ce3f29785c.png)
 
